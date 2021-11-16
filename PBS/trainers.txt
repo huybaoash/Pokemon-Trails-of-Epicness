@@ -1,0 +1,327 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = "A very good battle, indeed!"
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "Very good."
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = "Aww, I lost."
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = "A very good battle, indeed!"
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = "You beat me again!"
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = "Defeated! Oh my!"
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = "Defeated! Oh my!"
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = "You're too good for me!"
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = "Washed out!"
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = "My Skitty!"
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = "Our teamwork failed!"
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_Brendan,Brendan]
+LoseText = "..."
+Pokemon = MARSHTOMP,19
+#-------------------------------#
+[POKEMONTRAINER_Brendan,Brendan,1]
+LoseText = "..."
+Pokemon = SWAMPERT,65
+    Item = SWAMPERTITE
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 200,100,300,100,300,100
+    Moves = EARTHQUAKE,STEALTHROCK,WATERFALL,ICEPUNCH
+Pokemon = BRELOOM,65
+    Item = TOXICORB
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 200,100,300,100,300,100
+    Moves = PROTECT,DRAINPUNCH,LEECHSEED,SNORE
+Pokemon = SKARMORY,65
+    Item = ROCKYHELMET
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 300,100,300,100,300,200
+    Moves = ROOST,SPIKES,BODYPRESS,STEALTHROCK
+#-------------------------------#
+[POKEMONTRAINER_May,May]
+LoseText = "..."
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[POKEMONTRAINER_May,May,1]
+LoseText = "..."
+Pokemon = BLAZIKEN,65
+    Item = BLAZIKENITE
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 300,100,300,100,300,100
+    Moves = EARTHQUAKE,SWORDSDANCE,BLAZEKICK,PROTECT
+Pokemon = BRELOOM,65
+    Item = TOXICORB
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 200,100,300,100,300,100
+    Moves = PROTECT,DRAINPUNCH,LEECHSEED,SNORE
+Pokemon = SWELLOW,65
+    Item = LEFTOVERS
+    AbilityIndex = 2
+    IV = 62,62,62,62,62,62
+    EV = 300,300,300,300,300,300
+    Moves = ROOST,UTURN,PROTECT,BRAVEBIRD
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = "Washed out!"
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = "A good battle indeed!"
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+Pokemon = TAPUKOKO,63
+    Item = SITRUSBERRY
+Pokemon = TAPULELE,63
+    Item = SITRUSBERRY
+Pokemon = TAPUBULU,63
+    Item = SITRUSBERRY
+#-------------------------------
+[trainerBlue,Blue,1]
+
+Pokemon = GYARADOS,65
+    Item = LIFEORB
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 200,100,300,100,300,100
+    Moves = EARTHQUAKE,DRAGONDANCE,ICEFANG,CRUNCH
+Pokemon = PIDGEOT,65
+    Item = LEFTOVERS
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 200,200,200,200,200,200
+    Moves = TAILWIND,AERIALACE,ROOST,HEATWAVE
+Pokemon = ARCANINE,65
+    Item = AIRBALLOON
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 200,200,200,200,200,200
+    Moves = HEATWAVE,EXTREMESPEED,PLAYROUGH,REFLECT
+Pokemon = SCIZOR,65
+    Item = SCIZORITE
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 200,300,100,100,300,100
+    Moves = BULLETPUNCH,SWORDSDANCE,XSCISSOR,SUBSTITUTE
+#-------------------------------
+[trainer014,Sigmund Coniderr,1]
+
+Pokemon = MUSHARNA,65
+    Item = LEFTOVERS
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = PSYCHICTERRAIN,DAZZLINGGLEAM,PSYCHIC,REFLECT
+Pokemon = DRAMPA,65
+    Item = LEFTOVERS
+    AbilityIndex = 0
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = HYPERVOICE,DRAGONPULSE,DEFOG,NATUREPOWER
+Pokemon = SCIZOR,65
+    Item = SCIZORITE
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = BULLETPUNCH,SWORDSDANCE,XSCISSOR,SUBSTITUTE
+#-------------------------------
+[trainer060,Blake,1]
+
+Pokemon = WALREIN,65
+    Item = LEFTOVERS
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 200,100,200,100,200,100
+    Moves = SURF,BLIZZARD,PROTECT,ATTRACT
+Pokemon = MAMOSWINE,65
+    Item = LEFTOVERS
+    AbilityIndex = 0
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = EARTHQUAKE,ROCKSLIDE,MIST,HEADSMASH
+Pokemon = GYARADOS,65
+    Item = LIFEORB
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = EARTHQUAKE,DRAGONDANCE,ICEFANG,CRUNCH
+#-------------------------------
+[trainer075,Joseite,1]
+
+Pokemon = XATU,65
+    Item = LEFTOVERS
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 200,100,200,100,200,100
+    Moves = TAILWIND,WISH,PROTECT,TOXIC
+Pokemon = ARIADOS,65
+    Item = AIRBALLOON
+    AbilityIndex = 0
+    IV = 31,31,31,31,31,31
+    EV = 200,100,100,100,100,100
+    Moves = STRUGGLEBUG,STICKYWEB,XSCISSOR,VENOSHOCK
+Pokemon = NOCTOWL,65
+    Item = LEFTOVERS
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 300,100,200,100,200,100
+    Moves = CALMMIND,DEFOG,HEATWAVE,HYPERVOICE
+#-------------------------------
+[trainerShadow,Member,1]
+
+Pokemon = EXCADRILL,65
+    Item = AIRBALLOON
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = ROCKSLIDE,XSCISSOR,PROTECT,AERIALACE
+Pokemon = WEAVILE,65
+    Item = LIFEORB
+    AbilityIndex = 0
+    IV = 31,31,31,31,31,31
+    EV = 200,100,100,100,100,100
+    Moves = ICICLESPEAR,KNOCKOFF,XSCISSOR,SHADOWCLAW
+Pokemon = ZOROARK,65
+    Item = AIRBALLOON
+    AbilityIndex = 0
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = FLAMETHROWER,PROTECT,FOCUSBLAST,PAYBACK
+#-------------------------------
+[SHADOW_ELITE_Koga,Koga,1]
+
+Pokemon = ARIADOS,65
+    Item = AIRBALLOON
+    AbilityIndex = 0
+    IV = 31,31,31,31,31,31
+    EV = 200,100,100,100,100,100
+    Moves = STRUGGLEBUG,STICKYWEB,XSCISSOR,VENOSHOCK
+Pokemon = TOXICROAK,65
+    Item = AIRBALLOON
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = SUCKERPUNCH,BULLDOZE,XSCISSOR,DRAINPUNCH
+Pokemon = GENGAR,65
+    Item = GENGARITE
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+    Moves = ENERGYBALL,DESTINYBOND,ICYWIND,FOCUSBLAST
+#-------------------------------
+[TEAMROCKET_M,Grunt,2]
+Pokemon = RATICATE,61
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+Pokemon = GOLDUCK,61
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+#-------------------------------
+[TEAMROCKET_M,Grunt,3]
+Pokemon = PARASECT,61
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+Pokemon = GLOOM,61
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+#-------------------------------
+[TEAMROCKET_M,Grunt,4]
+Pokemon = VENOMOTH,61
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+Pokemon = SANDSLASH,61
+    IV = 31,31,31,31,31,31
+    EV = 100,100,100,100,100,100
+#-------------------------------

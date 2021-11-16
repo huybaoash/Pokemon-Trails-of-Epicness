@@ -1,0 +1,50 @@
+#-------------------------------
+[CHAMPION]
+
+#-------------------------------
+[RIVAL1]
+BattleBGM        = Battle Elite.mid
+#-------------------------------
+[RIVAL1,Blue]
+BattleVS         = forestSM
+#-------------------------------
+[RIVAL1,Blue,1]
+BattleVS         = flamesSM
+#-------------------------------
+[RIVAL1,Blue,2]
+BattleVS         = wavesSM
+#-------------------------------
+[LEADER_Brock]
+TrainerPositionX = -8
+BattleVS         = integratedVS
+BattleScript     = BROCK
+#-------------------------------
+[TEAMROCKET_M]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[TEAMROCKET_F]
+BattleIntro      = evilTeam
+BattleVS         = trainerSM
+#-------------------------------
+[POKEMONTRAINER_Brendan]
+BattleVS         = forestSM
+#-------------------------------
+[POKEMONTRAINER_May]
+BattleVS         = flamesSM
+#-------------------------------
+[SHADOW_ELITE_Koga,Koga,1]
+BattleBGM        = Sen no Kiseki OST  Exceed.mp3
+#-------------------------------
+[trainerShadow,Member,1]
+BattleBGM        = Sen no Kiseki OST  Exceed.mp3
+#-------------------------------
+[trainer075,JOSEITE,1]
+BattleBGM        = Sen no Kiseki IV  Boss Theme 5 Mighty Urge.mp3
+#-------------------------------
+[trainer060,Blake,1]
+BattleBGM        = Sen no Kiseki IV  Boss Theme 5 Mighty Urge.mp3
+#-------------------------------
+[trainer014,Sigmund Coniderr,1]
+BattleBGM        = Sen no Kiseki IV  Boss Theme 5 Mighty Urge.mp3
+#-------------------------------
